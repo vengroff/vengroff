@@ -1,4 +1,4 @@
-# Darren Vengroff
+# Darren Erik Vengroff
 
 <img src="https://github-readme-stats.vercel.app/api?username=vengroff" />
 
