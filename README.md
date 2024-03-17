@@ -1,6 +1,14 @@
 # Darren Erik Vengroff
 
-<img src="https://github-readme-stats.vercel.app/api?username=vengroff" />
+Darren Erik Vengroff is the creator and primary contributor to several open source repositories including
+
+- [censusdis](https://github.com/censusdis/censusdis)
+- [impactchart](https://github.com/vengroff/impactchart)
+- [divintseg](https://github.com/censusdis/divintseg)
+
+His blog, much of which covers these projects, is [Datapinions](https://www.datapinions.com).
+
+<img src="https://github-readme-stats.vercel.app/api?username=vengroff&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&hide_rank=true" />
 
 <!--
 **vengroff/vengroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
